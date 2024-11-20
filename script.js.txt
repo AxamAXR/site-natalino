@@ -1,0 +1,2 @@
+// Adicionei para possíveis efeitos futuros, mas não obrigatório
+console.log("Site de Natal carregado com sucesso!");

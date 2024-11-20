@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feliz Natal, Bela!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Feliz Natal, Bela! 🎄</h1>
+    <p>Uma pequena surpresa cheia de amor para você. ❤️</p>
+  </header>
+
+  <main>
+    <section class="gallery">
+      <h2>Nossas Memórias</h2>
+      <div class="photos">
+        <img src="photo1.jpg" alt="Nós dois juntos">
+        <img src="photo2.jpg" alt="Nós dois sorrindo">
+        <img src="photo3.jpg" alt="Pose divertida">
+        <img src="photo4.jpg" alt="Caminhando juntos">
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Com todo meu amor, <b>[Seu Nome]</b> ❤️</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
