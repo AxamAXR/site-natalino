@@ -8,7 +8,7 @@
 </head>
 <body>
   <header class="header">
-    <h1>Feliz Natal, Bela! 🎄</h1>
+    <h1>Feliz Natal, Meu Amor! 🎄</h1>
     <p>Uma pequena surpresa cheia de amor para você. ❤️</p>
   </header>
 
